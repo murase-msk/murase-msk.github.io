@@ -5,5 +5,5 @@ title: トップページ
 
 # トップページです
 
-* hoge
-* huga
+- hoge
+- huga
