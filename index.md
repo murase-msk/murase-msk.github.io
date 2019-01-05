@@ -10,7 +10,7 @@
 - 現在、アマチュアプログラマとして活動しております。
 - ITエンジニアとしての実務経験はありません。
 
-## SKill
+## Skill
 
 - Programing Language
   - PHP, Javascript
@@ -35,8 +35,8 @@
   - Apache, AWS(EC2), Vagrant
     - Webサービスに使用したことがある程度
 - Others
-  - Git: commit, push, pullなど簡単な操作はできる
-  - 
+  - Git
+    - commit, push, pullなど簡単な操作ができる程度
 
 ## Product
 
