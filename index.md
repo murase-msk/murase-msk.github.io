@@ -13,8 +13,7 @@
 
 ## Product
 
-- [Youtube Typing Game Generator](https://github.com/murase-msk/YoutubeTypingGameGenerator)  
-[(ソースコード)](https://github.com/murase-msk/YoutubeTypingGameGenerator)
+- [Youtube Typing Game Generator](https://github.com/murase-msk/YoutubeTypingGameGenerator)
 
 - [(自称)アマチュアプログラマがWebサービスを作ってみた](https://speakerdeck.com/murasemsk/amateur-programer-web-service)
 
