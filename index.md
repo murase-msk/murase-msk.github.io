@@ -34,12 +34,6 @@
 - Web Application Framework
   - Slim Framework (PHP), Vue.js (Javascript)
     - 簡単なWebサービスを作れる程度
-<!--
-   - Express (Node.js), bottle (Python)
-    - 調べながら簡単なWebAPIサーバを作ったことがある程度
-  - Ruby on Rails (Ruby), Laravel (PHP)
-    - Scaffolding程度 (入門書の最初の方のページくらい) 
--->
 
 - Middleware
   - Apache, PostgreSQL
@@ -58,4 +52,11 @@
 - Laravelなどのフルスタックフレームワーク
 - Slackなどチャットツールを使用したコミュニケーション
 - チームでの開発
-- プロジェクト管理ツールを使用した開発 -->
+- プロジェクト管理ツールを使用した開発 
+
+- Skill
+  - Express (Node.js), bottle (Python)
+    - 調べながら簡単なWebAPIサーバを作ったことがある程度
+  - Ruby on Rails (Ruby), Laravel (PHP)
+    - Scaffolding程度 (入門書の最初の方のページくらい) 
+-->
