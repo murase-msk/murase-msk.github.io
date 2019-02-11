@@ -2,7 +2,7 @@
 
 (2019/2/3更新)
 
-## Profile
+## My Profile
 
 - 平成4年生まれ
 - 大学、大学院では情報工学系を専攻
@@ -28,18 +28,18 @@
 - Programing Language
   - PHP, Javascript
     - 簡単なWebサービスを作れる程度
-  - shell script
-    - 調べながら簡単なスクリプトが組める程度
-  - Java, C, Ruby, Python, Node.js
+  - Java, C, Ruby, Python, Node.js, shell script
     - 調べながら簡単なプログラムを組める程度
 
 - Web Application Framework
   - Slim Framework (PHP), Vue.js (Javascript)
     - 簡単なWebサービスを作れる程度
-  <!-- - Express (Node.js), bottle (Python)
+  <!--
+   - Express (Node.js), bottle (Python)
     - 調べながら簡単なWebAPIサーバを作ったことがある程度
   - Ruby on Rails (Ruby), Laravel (PHP)
-    - Scaffolding程度 (入門書の最初の方のページくらい) -->
+    - Scaffolding程度 (入門書の最初の方のページくらい) 
+  -->
 
 - Middleware
   - Apache, PostgreSQL
@@ -53,3 +53,9 @@
 - Others
   - Git
     - commit, push, pullなど簡単な操作ができる程度
+
+<!-- ## やったことはないが興味があるもの
+- Laravelなどのフルスタックフレームワーク
+- Slackなどチャットツールを使用したコミュニケーション
+- チームでの開発
+- プロジェクト管理ツールを使用した開発 -->
