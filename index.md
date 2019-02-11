@@ -1,6 +1,6 @@
 # Murase's Portfolio
 
-(2019/2/11更新)
+(2019/2/10更新)
 
 ## My Profile
 
@@ -30,11 +30,9 @@
     - 簡単なWebサービスを作れる程度
   - Java, C, Ruby, Python, Node.js, shell script
     - 調べながら簡単なプログラムを組める程度
-
 - Web Application Framework
   - Slim Framework (PHP), Vue.js (Javascript)
     - 簡単なWebサービスを作れる程度
-
 - Middleware
   - Apache, PostgreSQL
     - Webサービスに使用したことがある程度
