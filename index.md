@@ -1,19 +1,27 @@
 # Murase's Portfolio
 
-(2019/2/10更新)
+(2019/3/18更新)
 
-## My Profile
+## 自己紹介
 
-- 平成4年生まれ
-- 大学、大学院では情報工学系を専攻
-- 愛知県内自動車部品メーカー勤務 非IT系業務(社会人3年目)
-- 現在、アマチュアプログラマとして活動中
-- Webエンジニアとしての実務経験なし
-- [Githubアカウント](https://github.com/murase-msk)
+1992年生まれ。愛知県在住
 
-## Product
+コンピュータへの興味から大学は情報系の学部へ進学。
+大学、大学院時代の研究では地理データを扱った研究を行った。
 
-- [Youtube Typing Game Generator](https://github.com/murase-msk/YoutubeTypingGameGenerator)
+大学で学んだことを活かせるIT系の企業を検討したが、
+将来性や収入面から大手自動車部品メーカーへ新卒で入社。
+業務内容は技術的な面で成長できる機会は少ないことから
+仕事に対するモチベーションが低くなり転職を検討するようになる。
+
+大学時代からIT技術に興味がある、特にWeb技術が好きであるため
+プライペートでWebサービスの作成をした。
+この実績をもとに現在、転職活動を行っている。
+
+## 制作物
+
+- [Youtube Typing Game Generator](https://ytgg.murase-msk.work/)
+  - [ソースコード](https://github.com/murase-msk/YoutubeTypingGameGenerator)
 
 - [(自称)アマチュアプログラマがWebサービスを作ってみた](https://speakerdeck.com/murasemsk/amateur-programer-web-service)
 
@@ -23,26 +31,26 @@
 
 - [日本語英語同時字幕表示](https://github.com/murase-msk/youtube_MultiScript) -->
 
-## Skill
+## スキル
 
-- Programing Language
+- プログラミング言語
   - PHP, Javascript
     - 簡単なWebサービスを作れる程度
   - Java, C, Ruby, Python, Node.js, shell script
     - 調べながら簡単なプログラムを組める程度
-- Web Application Framework
+- フレームワーク
   - Slim Framework (PHP), Vue.js (Javascript)
     - 簡単なWebサービスを作れる程度
-- Middleware
+- ミドルウェア
   - Apache, PostgreSQL
     - Webサービスに使用したことがある程度
-- Operating System
+- OS
   - Ubuntu
     - Webサービスに使用したことがある程度
-- Infrastructure
+- インフラ
   - AWS(EC2), Vagrant
     - Webサービスに使用したことがある程度
-- Others
+- その他
   - Git
     - commit, push, pullなど簡単な操作ができる程度
 
