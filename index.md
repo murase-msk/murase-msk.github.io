@@ -19,10 +19,11 @@
 
 ## 制作物
 
-- [Youtube Typing Game Generator](https://ytgg.murase-msk.work/)
+- Youtube Typing Game Generator
+  - [動作ページ](https://ytgg.murase-msk.work/)
+  - [デモ動画](https://www.youtube.com/playlist?list=PLIcqSvm5o6LxqKMRmdcTi4G9ITioqHjil)
   - [ソースコード](https://github.com/murase-msk/YoutubeTypingGameGenerator)
-
-- [(自称)アマチュアプログラマがWebサービスを作ってみた](https://speakerdeck.com/murasemsk/amateur-programer-web-service)
+  - [(自称)アマチュアプログラマがWebサービスを作ってみた](https://speakerdeck.com/murasemsk/amateur-programer-web-service)
 
 <!-- - [掲示板システム](https://github.com/murase-msk/nodeJsKeiziban)
 
