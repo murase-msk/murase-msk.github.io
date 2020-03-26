@@ -1,18 +1,12 @@
 # Murase's Portfolio
 
-(2019/3/18更新)
-
 ## 自己紹介
 
 1992年生まれ。愛知県在住
 
 コンピュータへの興味から大学は情報系の学部へ進学。
 大学、大学院時代の研究では地理データを扱った研究を行った。
-
-大学で学んだことを活かせるIT系の企業を検討したが、
 将来性や収入面から大手自動車部品メーカーへ新卒で入社。
-業務内容は技術的な面で成長できる機会は少ないことから
-転職を検討するようになる。
 
 大学時代からIT技術に興味がある、特にWeb技術が好きであるため
 プライペートでWebサービスの作成をした。
@@ -21,7 +15,7 @@
 
 - Youtube Typing Game Generator
   - [動作ページ](https://ytgg.murase-msk.work/)
-  - [デモ動画](https://www.youtube.com/playlist?list=PLIcqSvm5o6LxqKMRmdcTi4G9ITioqHjil)
+  - [デモ動画](https://www.youtube.com/watch?v=S9bZAidy1Is&list=PLIcqSvm5o6LxqKMRmdcTi4G9ITioqHjil&index=2&t=0s)
   - [ソースコード](https://github.com/murase-msk/YoutubeTypingGameGenerator)
   - [(自称)アマチュアプログラマがWebサービスを作ってみた](https://speakerdeck.com/murasemsk/amateur-programer-web-service)
 
